@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Run Semih Run:):):):)</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reminder">Reminder</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+
+</resources>
